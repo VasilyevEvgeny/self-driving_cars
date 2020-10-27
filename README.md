@@ -1,4 +1,4 @@
-# [Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars) from University of Toronto 
+# [Coursera specialization "Self-driving cars"](https://www.coursera.org/specializations/self-driving-cars) by University of Toronto 
 
 ### About this Specialization
 Be at the forefront of the autonomous driving industry. With market researchers predicting a $42-billion 
